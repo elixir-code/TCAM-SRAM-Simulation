@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2016.4_sdx (64-bit)
+# SW Build 1806307 on Thu Mar  9 15:24:27 MST 2017
+# IP Build 1759159 on Thu Jan 26 07:31:30 MST 2017
+# Start of session at: Tue Apr 12 04:18:05 2011
+# Process ID: 5076
+# Current directory: /home/SDx/2016.4/tcam_sram/tcam_sram.sim/sim_1/behav
+# Command line: wbtcv -mode batch -source /home/SDx/2016.4/tcam_sram/tcam_sram.sim/sim_1/behav/xsim.dir/cu_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/SDx/2016.4/tcam_sram/tcam_sram.sim/sim_1/behav/webtalk.log
+# Journal file: /home/SDx/2016.4/tcam_sram/tcam_sram.sim/sim_1/behav/webtalk.jou
+#-----------------------------------------------------------
+Sourcing tcl script '/home/SDx/2016.4/Vivado/scripts/init.tcl'
+Loaded SDSoC Platform Tcl Library
+source /home/SDx/2016.4/tcam_sram/tcam_sram.sim/sim_1/behav/xsim.dir/cu_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Tue Apr 12 04:18:08 2011...

@@ -1,0 +1,63 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: /home/SDx/2016.4/Vivado/bin/unwrapped/lnx64.o/xelab -wto 3ce83eaf826e455286aafc9ae052c4b1 --debug typical --relax --mt 8 -L blk_mem_gen_v8_3_5 -L xil_defaultlib -L xbip_utils_v3_0_7 -L c_reg_fd_v12_0_3 -L xbip_dsp48_wrapper_v3_0_4 -L xbip_pipe_v3_0_3 -L xbip_dsp48_addsub_v3_0_3 -L xbip_addsub_v3_0_3 -L c_addsub_v12_0_10 -L c_gate_bit_v12_0_3 -L xbip_counter_v3_0_3 -L c_counter_binary_v12_0_10 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot cu_tb_behav xil_defaultlib.cu_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package c_counter_binary_v12_0_10.c_counter_binary_v12_0_10_viv_co...
+Compiling package xbip_utils_v3_0_7.xbip_utils_v3_0_7_pkg
+Compiling package xbip_counter_v3_0_3.xbip_counter_v3_0_3_viv_comp
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package xbip_counter_v3_0_3.xbip_counter_v3_0_3_pkg
+Compiling package c_counter_binary_v12_0_10.c_counter_binary_v12_0_10_pkg
+Compiling package xbip_pipe_v3_0_3.xbip_pipe_v3_0_3_viv_comp
+Compiling package c_gate_bit_v12_0_3.c_gate_bit_v12_0_3_viv_comp
+Compiling package xbip_counter_v3_0_3.xbip_counter_v3_0_3_hdl_comps
+Compiling package xbip_dsp48_wrapper_v3_0_4.xbip_dsp48_wrapper_v3_0_4_pkg
+Compiling package unisim.vcomponents
+Compiling package ieee.std_logic_signed
+Compiling package ieee.vital_timing
+Compiling package ieee.vital_primitives
+Compiling package unisim.vpkg
+Compiling package c_reg_fd_v12_0_3.c_reg_fd_v12_0_3_viv_comp
+Compiling package c_gate_bit_v12_0_3.pkg_gate_bit_v12_0
+Compiling architecture synth of entity xbip_pipe_v3_0_3.xbip_pipe_v3_0_3_viv [\xbip_pipe_v3_0_3_viv(c_has_ce=1...]
+Compiling architecture dsp48e1_v of entity unisim.DSP48E1 [\DSP48E1(acascreg=0,adreg=0,alum...]
+Compiling architecture synth of entity xbip_dsp48_wrapper_v3_0_4.xbip_dsp48e1_wrapper_v3_0 [\xbip_dsp48e1_wrapper_v3_0(preg=...]
+Compiling architecture synth of entity xbip_pipe_v3_0_3.xbip_pipe_v3_0_3_viv [\xbip_pipe_v3_0_3_viv(c_has_ce=1...]
+Compiling architecture synth of entity xbip_counter_v3_0_3.dsp48_counter [\dsp48_counter(c_xdevicefamily="...]
+Compiling architecture synth of entity c_gate_bit_v12_0_3.c_gate_bit_tile [\c_gate_bit_tile(c_width_in=5,ci...]
+Compiling architecture synth of entity c_gate_bit_v12_0_3.c_gate_bit_tier [\c_gate_bit_tier(c_width_in=5,c_...]
+Compiling architecture synth of entity c_gate_bit_v12_0_3.c_gate_bit_v12_0_3_viv [\c_gate_bit_v12_0_3_viv(c_gate_t...]
+Compiling architecture synth of entity xbip_pipe_v3_0_3.xbip_pipe_v3_0_3_viv [\xbip_pipe_v3_0_3_viv(c_has_ce=1...]
+Compiling architecture synth of entity xbip_counter_v3_0_3.xbip_counter_v3_0_3_viv [\xbip_counter_v3_0_3_viv(c_xdevi...]
+Compiling architecture synth of entity c_counter_binary_v12_0_10.c_counter_binary_v12_0_10_viv [\c_counter_binary_v12_0_10_viv(c...]
+Compiling architecture xilinx of entity c_counter_binary_v12_0_10.c_counter_binary_v12_0_10 [\c_counter_binary_v12_0_10(c_imp...]
+Compiling architecture bin_cntr18_arch of entity xil_defaultlib.bin_cntr18 [bin_cntr18_default]
+Compiling module xil_defaultlib.decoder1x2
+Compiling module xil_defaultlib.decoder2x4
+Compiling module xil_defaultlib.decoder4x16
+Compiling module xil_defaultlib.decoder5x32
+Compiling module xil_defaultlib.DFlipFlop8
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_output_stage(...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_output_stage(...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_softecc_outpu...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5_mem_module(C_...
+Compiling module blk_mem_gen_v8_3_5.blk_mem_gen_v8_3_5(C_FAMILY="zyn...
+Compiling module xil_defaultlib.BRAM_4x256
+Compiling module xil_defaultlib.tcam_256x144
+Compiling module xil_defaultlib.priority_encoder_4bit
+Compiling module xil_defaultlib.priority_encoder_256bit
+Compiling module xil_defaultlib.encoder256bit
+Compiling module xil_defaultlib.control_unit
+Compiling module xil_defaultlib.cu_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cu_tb_behav

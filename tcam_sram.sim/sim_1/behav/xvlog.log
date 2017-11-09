@@ -1,0 +1,19 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/SDx/2016.4/tcam_sram/tcam_sram.srcs/sources_1/ip/BRAM_4x256/sim/BRAM_4x256.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BRAM_4x256
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/SDx/2016.4/tcam_sram/tcam_sram.srcs/sources_1/new/encoder_256x8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module encoder256bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/SDx/2016.4/tcam_sram/tcam_sram.srcs/sources_1/new/PE_256x8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module priority_encoder_4bit
+INFO: [VRFC 10-311] analyzing module priority_encoder_256bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/SDx/2016.4/tcam_sram/tcam_sram.srcs/sources_1/new/tcam_256x144.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tcam_256x144
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/SDx/2016.4/tcam_sram/tcam_sram.srcs/sources_1/new/control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder1x2
+INFO: [VRFC 10-311] analyzing module decoder2x4
+INFO: [VRFC 10-311] analyzing module decoder4x16
+INFO: [VRFC 10-311] analyzing module decoder5x32
+INFO: [VRFC 10-311] analyzing module DFlipFlop8
+INFO: [VRFC 10-311] analyzing module control_unit
+INFO: [VRFC 10-311] analyzing module cu_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/SDx/2016.4/tcam_sram/tcam_sram.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

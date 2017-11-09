@@ -1,0 +1,5 @@
+verilog xil_defaultlib "../../../../tcam_sram.srcs/sources_1/ip/BRAM_4x256/sim/BRAM_4x256.v" 
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

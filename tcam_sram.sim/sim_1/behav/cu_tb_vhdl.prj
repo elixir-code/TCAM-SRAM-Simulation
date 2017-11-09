@@ -1,0 +1,5 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../tcam_sram.srcs/sources_1/ip/bin_cntr18/sim/bin_cntr18.vhd"
+
+# Do not sort compile order
+nosort
